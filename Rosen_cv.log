@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.7.27)  29 JAN 2022 13:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=latex 2021.7.27)  21 SEP 2022 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -277,86 +277,92 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--36
  []
 
 
-Overfull \hbox (8.04588pt too wide) in paragraph at lines 58--59
-[][][][]\OT1/cmr/m/n/10.95 . Pro-ceed-
+Overfull \hbox (28.44537pt too wide) in paragraph at lines 59--60
+[]\OT1/cmr/m/n/10.95 2021. [][][][]. Caitlin
  []
 
 
-Overfull \hbox (21.90419pt too wide) in paragraph at lines 59--60
+Overfull \hbox (21.90419pt too wide) in paragraph at lines 60--61
 []\OT1/cmr/m/n/10.95 2021. [][][][] (Ja-cob Russin,
  []
 
 
-Overfull \hbox (18.20575pt too wide) in paragraph at lines 60--61
-[]\OT1/cmr/m/n/10.95 2019. [][][][] (with Paul Smolen-sky and Matthew Goldrick)
-.
- []
-
-
-Overfull \hbox (26.85529pt too wide) in paragraph at lines 61--62
-[]\OT1/cmr/m/n/10.95 2019. [][][][].
+Overfull \hbox (63.22667pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/m/n/10.95 2021. [][][][].
  []
 
 [1
 
 ]
-Overfull \hbox (36.99622pt too wide) in paragraph at lines 65--66
+Overfull \hbox (18.20575pt too wide) in paragraph at lines 62--63
+[]\OT1/cmr/m/n/10.95 2019. [][][][] (with Paul Smolen-sky and Matthew Goldrick)
+.
+ []
+
+
+Overfull \hbox (26.85529pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/10.95 2019. [][][][].
+ []
+
+
+Overfull \hbox (36.99622pt too wide) in paragraph at lines 67--68
 \OT1/cmr/m/n/10.95 Berke-ley Lin-guis-tic So-ci-ety, Febru-ary 5-7, 2016. ROA 1
 299. http://roa.rutgers.edu/article/view/1559 
  []
 
 
-Overfull \hbox (3.74702pt too wide) in paragraph at lines 94--95
+Overfull \hbox (3.74702pt too wide) in paragraph at lines 90--91
 \OT1/cmr/m/n/10.95 Gold-smith, Uni-ver-sity of Chicago. Avail-able on Arxiv at 
 https://arxiv.org/pdf/1703.04481.pdf 
  []
 
 
-Overfull \hbox (2.9776pt too wide) in paragraph at lines 99--101
+Overfull \hbox (2.9776pt too wide) in paragraph at lines 95--97
 []\OT1/cmr/m/it/10.95 Japanese Loan-word Ac-cen-tu-a-tion: Epenthe-sis and Foot
  Form In-ter-act-ing through Edge-Interior
  []
 
 [2]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 123.
+(Font)              <10.95> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 123.
+(Font)              <8> on input line 119.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 123.
+(Font)              <6> on input line 119.
 
-Overfull \hbox (1.40353pt too wide) in paragraph at lines 141--142
+Overfull \hbox (1.40353pt too wide) in paragraph at lines 137--138
 []\OT1/cmr/m/n/10.95 Sept. 2014 through March 2015: took
  []
 
 [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 169.
+(Font)              <9> on input line 165.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 169.
+(Font)              <5> on input line 165.
 
-Overfull \hbox (3.59802pt too wide) in paragraph at lines 179--181
+Overfull \hbox (3.59802pt too wide) in paragraph at lines 175--177
 \OT1/cmr/m/it/10.95 Phonological pro-cesses in-ter-act-ing with the lex-i-con: 
 vari-able and non-regular ef-fects in Japanese
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 291.
 [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 291.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+ [5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (./Rosen_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 291.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 291.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `Rosen_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 291.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 287.
  ) 
 Here is how much of TeX's memory you used:
- 5259 strings out of 482623
- 82572 string characters out of 5954150
- 353545 words of memory out of 5000000
- 20381 multiletter control sequences out of 15000+600000
- 537110 words of font info for 40 fonts, out of 8000000 for 9000
+ 5262 strings out of 482623
+ 82607 string characters out of 5954150
+ 354545 words of memory out of 5000000
+ 20383 multiletter control sequences out of 15000+600000
+ 537469 words of font info for 41 fonts, out of 8000000 for 9000
  286 hyphenation exceptions out of 8191
- 37i,8n,34p,925b,434s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,8n,34p,925b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on Rosen_cv.dvi (4 pages, 21244 bytes).
+Output written on Rosen_cv.dvi (5 pages, 24984 bytes).
